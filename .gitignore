@@ -1,0 +1,5 @@
+# Ignorar binários e executáveis
+*.exe
+*.out
+*.o
+
