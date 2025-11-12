@@ -1,0 +1,8 @@
+12/11/2025 11:18:27 - https://www.alura.com.br - online: true
+12/11/2025 11:18:28 - https://httpbin.org/status/200 - online: false
+12/11/2025 11:18:28 - https://www.caelum.com.br - online: true
+12/11/2025 11:18:29 - https://random-status-code.vercel.app/ - online: false
+12/11/2025 11:18:34 - https://www.alura.com.br - online: true
+12/11/2025 11:18:34 - https://httpbin.org/status/200 - online: false
+12/11/2025 11:18:34 - https://www.caelum.com.br - online: true
+12/11/2025 11:18:34 - https://random-status-code.vercel.app/ - online: false
